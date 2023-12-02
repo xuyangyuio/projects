@@ -1,0 +1,13 @@
+---
+format: 
+    revealjs: 
+        width: 1280
+        height: 720
+preload-iframes: true
+---
+
+# foo {background-iframe="iframes/coloredParticles/index.html"}
+
+# bar {background-iframe="iframes/glitteringSea/index.html"}
+
+# baz {background-iframe="iframes/matrix/index.html"}
