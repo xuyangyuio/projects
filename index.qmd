@@ -7,19 +7,19 @@ preload-iframes: true
 ---
 
 # {background-iframe="iframes/coloredParticles/index.html"}
-::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
-::: r-fit-text
+
+::: {style="background-color: #fffbbfbb; border-radius: 10px; padding: 5px;" .r-fit-text}
 Colored Particles
 :::
 
 # bar {background-iframe="iframes/glitteringSea/index.html"}
-::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
-::: r-fit-text
+
+::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;" .r-fit-text}
 Gliitering Sea
 :::
 
 # baz {background-iframe="iframes/matrix/index.html"}
-::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
-::: r-fit-text
+
+::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;" .r-fit-text}
 Matrix
 :::
